@@ -3,6 +3,7 @@
 ## Linux
 ```bash
 g++ namefile.cpp -o outfile
+./outfile
 ```
 
 ## Windows?
